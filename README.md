@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sixtyfour&size=18&pause=1000&color=B83FF7&random=false&width=440&lines=%C2%A1Hey+there!+I'm+Spectra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sixtyfour&pause=1000&color=B83FF7&center=true&random=false&width=500&lines=%C2%A1Hey+there!;I'm+Carla+(a.k.a+Spectra))](https://git.io/typing-svg)
+
 =====================================
 
 I've just started learning how to code, but so far I'm having a blast! I have a few projects on the works right now, and lots of new ideas for future endeavours.
