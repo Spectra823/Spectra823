@@ -5,7 +5,7 @@ I've just started learning how to code, but so far I'm having a blast! I have a 
 
 *   🌍  I'm based in Salamanca, Spain (lovely city, come visit!)
 *   🥅  Goals for 2024: Getting into college and improving my Python skills.
-*   🤝  Even though I'm still quite inexperienced, I love collaborating in open source projects and joining competitions. It's the best way of learning.
+*   🤝  Even though I'm still quite inexperienced, I love collaborating in open source projects and joining competitions. It's the best way to learn.
 *   🌐  I speak three languages fluently: Spanish, English and French
 
 ### Skills
