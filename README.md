@@ -15,7 +15,8 @@ I've just started learning how to code, but so far I'm having a blast! I have a 
   
 ### Socials
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)}" />
 
 ### Badges
 <div align=center>
