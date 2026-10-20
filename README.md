@@ -6,7 +6,7 @@
 <h2 align="center">✦ A little about me ✦</h2>
 
 <p align="center">
-  Hey there! I'm <b>Carla Marcos</b>, also known as <b>Spectra823</b> 👋
+  Hey there! I'm <b>Carla Marcos</b> 👋
   <br/>
   I'm a math and physics enthusiast who loves exploring ideas,
   solving problems, and turning curiosity into code.
