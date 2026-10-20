@@ -13,13 +13,13 @@
   <br/><br/>
   🔭 Always experimenting with new ideas and personal projects.
   <br/>
-  🧠 Fascinated by mathematics, physics, and scientific computing.
+  🧠 Fascinated by music, mathematics, physics, and quantum computing.
   <br/>
   🌍 Based in Salamanca, Spain.
   <br/>
   🌐 Spanish · English · French
   <br/>
-  💜 Member of the Femenine Tuna of Salamanca, bandurria-player and singer.
+  ❤️ 🖤 Member of the Femenine Tuna of Salamanca, bandurria-player and singer.
   <br/><br/>
 </p>
 
