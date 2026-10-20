@@ -60,13 +60,13 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎵 Aladin</h3>
+      <h3>🎵 TunaScriptor</h3>
       <p>
         A music analyzer and transcript generator, built specifically for tunas all around the world, supporting bandurria, lute and guitar.
       </p>
       <p align="center">
-        <a href="https://github.com/Spectra823/Aladin">
-          <img src="https://img.shields.io/badge/Aladin-Explore-800020?style=for-the-badge&logo=github&logoColor=white" alt="Explore Aladin"/>
+        <a href="https://github.com/Spectra823/TunaScriptor">
+          <img src="https://img.shields.io/badge/TunaScriptor-Explore-800020?style=for-the-badge&logo=github&logoColor=white" alt="Explore TunaScriptor"/>
         </a>
       </p>
     </td>
