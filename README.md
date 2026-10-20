@@ -106,15 +106,13 @@
 <h2 align="center">✦ Currently on repeat ✦</h2>
 
 <p align="center">
-  A little soundtrack for the coding sessions, late-night ideas, and everything in between.
-  <br/><br/>
-  <a href="[YOUR_SPOTIFY_TRACK_URL](https://open.spotify.com/intl-es/track/1yjY7rpaAQvKwpdUliHx0d?si=3ea611e8e43a4992)">
-    <img src="https://img.shields.io/badge/♫%20Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=carlaninja&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=carlaninja&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false&bar_color=e2962c&mode=light">
   </a>
 </p>
 
 <p align="center">
-  <i>🎧 One song. Infinite ideas.</i>
+  <i>🎧 If I'm not listening to music I'm probably asleep </i>
 </p>
 
 <!-- END -->
