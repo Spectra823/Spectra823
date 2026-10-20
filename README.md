@@ -26,16 +26,13 @@
 <p align="center">
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/carla-marcos-v%C3%A1zquez-0744b443b/es">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:carlamarcosvazquez@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="YOUR_DISCORD_URL">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="YOUR_INSTAGRAM_URL">
+  <a href="https://www.instagram.com/carlaa_mvz/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
